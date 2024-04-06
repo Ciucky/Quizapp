@@ -1,6 +1,6 @@
 # quizzapp
 
-A simple quiz app
+A simple true or false quiz app.
 
 ## Getting Started
 
